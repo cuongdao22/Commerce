@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=DESKTOP-279DV1P;Initial Catalog=Store_Fashion;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
