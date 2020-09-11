@@ -12722,11 +12722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Commerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
+      "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
       "projectName": "Nop.Plugin.ExternalAuth.Facebook",
-      "projectPath": "D:\\Commerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
+      "projectPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Commerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\obj\\",
+      "outputPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12745,8 +12745,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

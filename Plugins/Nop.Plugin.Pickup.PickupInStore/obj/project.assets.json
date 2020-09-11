@@ -12694,11 +12694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Commerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
+      "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
       "projectName": "Nop.Plugin.Pickup.PickupInStore",
-      "projectPath": "D:\\Commerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
+      "projectPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Commerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\obj\\",
+      "outputPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12717,8 +12717,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

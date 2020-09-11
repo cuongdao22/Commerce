@@ -12753,11 +12753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Commerce\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
+      "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
       "projectName": "Nop.Plugin.Tax.Avalara",
-      "projectPath": "D:\\Commerce\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
+      "projectPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Commerce\\Plugins\\Nop.Plugin.Tax.Avalara\\obj\\",
+      "outputPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Tax.Avalara\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12776,8 +12776,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "D:\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj"
             }
           }
         }

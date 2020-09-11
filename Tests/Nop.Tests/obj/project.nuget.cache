@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tf2OVUsEYbzlAPEeXrvqSwRBWsA4LU9XzNmYi5pQNcVhEbSHNGQB5IPcIu7U3AbymBqZUTaWgeqxjdyR9zNq5Q==",
+  "dgSpecHash": "6/ml4Iz/J7lGOmLLmjjIyCuGGrlxwg+0qG9AxYV+IGyiaI7nHXMuE+OE1U/bSgawN63NNedg28rFssGJSiZhFA==",
   "success": true,
-  "projectFilePath": "D:\\Commerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
+  "projectFilePath": "D:\\CodeCommerce\\Commerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

@@ -13397,11 +13397,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Commerce\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
+      "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
       "projectName": "Nop.Core.Tests",
-      "projectPath": "D:\\Commerce\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
+      "projectPath": "D:\\CodeCommerce\\Commerce\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Commerce\\Tests\\Nop.Core.Tests\\obj\\",
+      "outputPath": "D:\\CodeCommerce\\Commerce\\Tests\\Nop.Core.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13420,8 +13420,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Commerce\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
-              "projectPath": "D:\\Commerce\\Tests\\Nop.Tests\\Nop.Tests.csproj"
+            "D:\\CodeCommerce\\Commerce\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Tests\\Nop.Tests\\Nop.Tests.csproj"
             }
           }
         }

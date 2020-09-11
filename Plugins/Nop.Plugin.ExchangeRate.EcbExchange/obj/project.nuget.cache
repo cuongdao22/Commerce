@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55b7BTaBN4G8Z6fHlkNNKzBVY1Lqzx+iN80dBqqJivbZh7DIzT0JjINl6vu2nd778fbpHAL3FzZUOG3ELV0/ug==",
+  "dgSpecHash": "cAbsYEFHJtmKey+lza90T3MU9PsQONCt5YxvU8Ja8/0FwKfFcsa7kJ0uXdDUJHkRhbLaePfhvvo5LJbLOiJFwA==",
   "success": true,
-  "projectFilePath": "D:\\Commerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+  "projectFilePath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

@@ -12327,11 +12327,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
       "projectName": "Nop.Services",
-      "projectPath": "D:\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "projectPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Commerce\\Libraries\\Nop.Services\\obj\\",
+      "outputPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12350,11 +12350,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "D:\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-              "projectPath": "D:\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
+            "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
             }
           }
         }

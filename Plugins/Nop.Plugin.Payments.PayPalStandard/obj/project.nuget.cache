@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZ92Y9SMgE7vz+oL4yMtpwptK1n39xLc/FLytp5KBCpDjG8PszwZs4ggyD3TXMVXaVGUzRhVhAxbR8doOwVm6g==",
+  "dgSpecHash": "hJcXKbBw6I0GkVAVTt2CGnfY6r3XscgdvBzUddGhR9wqNjAbegRmjfc9kdqsIo9ZapzOLz0WuKP3KX5Qc13MYA==",
   "success": true,
-  "projectFilePath": "D:\\Commerce\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
+  "projectFilePath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

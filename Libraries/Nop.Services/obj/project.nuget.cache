@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V4y/VhxIPzsNq2kyX6c7jty+pkuLNZ8o40mQn/o5apWqygPsMUQdTaAaDtgouL5DYR9I4r1kWNj3f84FlkhC5w==",
+  "dgSpecHash": "km0wWHGN0Rv5LXJJPVwmh6rKzvCTj14sBMNXwaL5yPCFLDJwLtxDG4l1rId5lj1s5diu9gm8JPRFVrj1kjLPOg==",
   "success": true,
-  "projectFilePath": "D:\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
+  "projectFilePath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

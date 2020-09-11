@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BaaUV5hISKj6rwRtgeYHg7NTNMw9eNDV+Z502+nLVG5lhYTOF8B+4HzyqZk27DC+6rrHx3+K2Md6GffiSoHDFg==",
+  "dgSpecHash": "g2RFe56Jiwn5cmunoNM4fb6XSRcKIDk4PrcwHuLBILMaoLcfbXyOefCOLgQsIa4NPPjjZt5Wa+k7dRRUkA2vfw==",
   "success": true,
-  "projectFilePath": "D:\\Commerce\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
+  "projectFilePath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

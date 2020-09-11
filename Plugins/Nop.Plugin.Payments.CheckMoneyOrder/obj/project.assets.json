@@ -12694,11 +12694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Commerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
+      "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
       "projectName": "Nop.Plugin.Payments.CheckMoneyOrder",
-      "projectPath": "D:\\Commerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
+      "projectPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Commerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\obj\\",
+      "outputPath": "D:\\CodeCommerce\\Commerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12717,8 +12717,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

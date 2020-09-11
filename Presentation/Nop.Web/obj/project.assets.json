@@ -12697,11 +12697,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj",
+      "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj",
       "projectName": "Nop.Web",
-      "projectPath": "D:\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj",
+      "projectPath": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web\\Nop.Web.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Commerce\\Presentation\\Nop.Web\\obj\\",
+      "outputPath": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12720,17 +12720,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "D:\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-              "projectPath": "D:\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
+            "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
             },
-            "D:\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "D:\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
             },
-            "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\CodeCommerce\\Commerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

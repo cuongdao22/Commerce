@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {}
+    "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {}
   },
   "projects": {
-    "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+    "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectUniqueName": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "projectName": "Nop.Core",
-        "projectPath": "D:\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Commerce\\Libraries\\Nop.Core\\obj\\",
+        "outputPath": "D:\\CodeCommerce\\Commerce\\Libraries\\Nop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
